@@ -17,5 +17,10 @@ Check your setup by opening the following URL in your browser:
 http://localhost:4567/Hello.elm
 ```
 
+The .gif below shows you just how fast it is:
+
+[install demo](run.gif)
+
+
 Did it work? **Fantastic!**
-If not, do not hesitate to drop me an email and I'll see what I can do!
+If not, do not hesitate to drop me an email and I'll see what I can do to help.
