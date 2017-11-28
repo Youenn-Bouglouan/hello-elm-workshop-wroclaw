@@ -19,7 +19,7 @@ http://localhost:4567/Hello.elm
 
 The .gif below shows you just how fast it is:
 
-[install demo](run.gif)
+![install demo](run.gif)
 
 
 Did it work? **Fantastic!**
