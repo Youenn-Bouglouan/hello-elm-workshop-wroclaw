@@ -8,6 +8,7 @@ Once you're done, create a new folder on your local machine and run the followin
 
 ```
 git clone https://github.com/Youenn-Bouglouan/hello-elm-workshop-wroclaw.git
+cd hello-elm-workshop-wroclaw
 elm-reactor --port 4567
 ```
 
